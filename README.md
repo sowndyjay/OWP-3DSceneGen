@@ -15,6 +15,6 @@
 **[Sowndaryan Jayaprakash Anand](https://github.com/sowndyjay)**, **Neeresh Perla Kumar**, **Ming Shao**  
 *Miner School of Computer and Information Sciences, University of Massachusetts Lowell*
 
-[📊 View Conference Poster (PDF)](./docs/mit_urtc_poster.pdf) • [🎯 Mansion World Dataset](https://huggingface.co/datasets/superbigsaw/MansionWorld)
+[📊 View Paper (PDF)](KCS_26Report_SowndaryanJ.pdf) [📊 View Poster (PDF)](KCS_26Report_SowndaryanJ.pdf) • [🎯 Mansion World Dataset](https://huggingface.co/datasets/superbigsaw/MansionWorld)
 
 </div>
